@@ -7,5 +7,6 @@ import pandas as pd
 import os
 for i in range(0,10):
     print(i)
+arr = np.zeros(10)
 ```
 ###又来测试了
